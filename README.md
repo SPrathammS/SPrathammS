@@ -1,5 +1,9 @@
 ## Hi there 👋
+! [My linkedin profile picture] (https://media.licdn.com/dms/image/v2/D4D03AQFke4d1qjsbqg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1689899467882?e=1733961600&v=beta&t=zAxTO53Pwsi2pOU2VgLcc9UlHOEl-qwQLPoKzD51Nhg) 
 
+*My name is **Prathamm Surana** and I recently graduated in Biomedical Sciences.*
+## My Software Engineering Bootcamp Journey
+_ I Have just started with my bootcamp and am learning __Python__ language. _
 <!--
 **SPrathammS/SPrathammS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
