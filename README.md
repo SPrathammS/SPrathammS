@@ -3,7 +3,7 @@
 
 *My name is **Prathamm Surana** and I recently graduated in Biomedical Sciences.*
 ## My Software Engineering Bootcamp Journey
-_ I Have just started with my bootcamp and am learning __Python__ language. _
+_I have just started with my bootcamp and am learning __Python__ language._
 <!--
 **SPrathammS/SPrathammS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
